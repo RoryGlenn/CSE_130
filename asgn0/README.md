@@ -12,7 +12,7 @@ This program accepts files from the command line and reads them in reverse order
 FILES
 
 -
-dog.c
+dog.cpp
 
 This file is the implementation code used for creating dog
 
