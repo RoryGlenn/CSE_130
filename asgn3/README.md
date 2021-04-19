@@ -1,10 +1,10 @@
 -----------
 Authors:   Rory Glenn  
 Email:     romglenn@ucsc.edu  
-Quarter:   Fall 2020
-Class:     CSE 130
-Project:   asgn3: Back-up and Recovery in the HTTP server
-Professor: Faisal Nawab
+Quarter:   Fall 2020  
+Class:     CSE 130  
+Project:   asgn3: Back-up and Recovery in the HTTP server  
+Professor: Faisal Nawab  
 
 
 -----------
