@@ -1,6 +1,6 @@
 //---------------------------------------------------------------------------------
-// Authors:   Rory Glenn, Jeremiah Chen
-// Email:     romglenn@ucsc.edu, jchen202@ucsc.edu
+// Authors:   Rory Glenn
+// Email:     romglenn@ucsc.edu
 // Quarter:   Fall 2020
 // Class:     CSE 130
 // Project:   asgn1
