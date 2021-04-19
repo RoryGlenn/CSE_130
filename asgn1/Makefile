@@ -1,6 +1,6 @@
 # ---------------------------------------------------------------------------------
-# Authors:   Rory Glenn, Jeremiah Chen
-# Email:     romglenn@ucsc.edu, jchen202@ucsc.edu
+# Authors:   Rory Glenn
+# Email:     romglenn@ucsc.edu
 # Quarter:   Fall 2020
 # Class:     CSE 130
 # Project:   asgn1
@@ -9,12 +9,6 @@
 # httpserver.cpp
 # Implementaion file for httpserver
 # ---------------------------------------------------------------------------------
-
-# THIS IS A COPY AND PASTE TEMPLATE FROM THE CSE 130 CANVAS!
-# I, RORY GLENN, DID NOT MAKE THIS FILE!!!
-
-# Template Makefile for CMPE105-w19
-# You may use and submit this makefile.
 
 # There are some lines below you _will_ need to change. Below that, there are
 # lines that you do not _need_ to change, but may do so if you wish.
